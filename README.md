@@ -4,6 +4,11 @@
 
 This is a simple tool to help solve sudokus. I coded it to help me to just that.
 
+This tool is not intended as a complete sudoku solver, but rather as a helper, that does the tedious task.
+It does not implement any 'strong' strategies nor does it implement search.
+
+In the future I may come back to this tool to make it more useful.
+
 ![Screenshot of the game](screenshots/screenshot.png)
 
 ## Usage
